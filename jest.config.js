@@ -12,4 +12,5 @@ module.exports = {
   transformIgnorePatterns: ['<rootDir>/node_modules/'],
   setupTestFrameworkScriptFile: '<rootDir>/enzyme.js',
   testResultsProcessor: 'jest-sonar-reporter',
+  reporters: ['default', 'jest-sonar'],
 };

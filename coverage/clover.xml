@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1567489840487" clover="3.2.0">
-  <project timestamp="1567489840487" name="All files">
+<coverage generated="1567490361515" clover="3.2.0">
+  <project timestamp="1567490361515" name="All files">
     <metrics statements="11" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2" elements="15" coveredelements="11" complexity="0" loc="11" ncloc="11" packages="3" files="3" classes="3">
       <package name="test-sonar">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
