@@ -1,5 +1,5 @@
 <testExecutions version="1">
-<file path="tests/unit/App.spec.js">
-<testCase name="Pages Index should render without throwing an error" duration="9" />
+<file path="pages/tests/unit/App.spec.js">
+<testCase name="Pages Index should render without throwing an error" duration="11" />
 </file>
 </testExecutions>

@@ -1,7 +1,7 @@
 /* eslint-disable react/jsx-filename-extension */
 import React from 'react';
 import { shallow } from 'enzyme';
-import IndexPage from '../../pages/index';
+import IndexPage from '../../index';
 
 describe('Pages', () => {
   describe('Index', () => {

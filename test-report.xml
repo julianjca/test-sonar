@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
-  <file path="/Users/juliananderson/test-sonar/tests/unit/App.spec.js">
-    <testCase name="Pages Index should render without throwing an error" duration="9"/>
+  <file path="/Users/juliananderson/test-sonar/pages/tests/unit/App.spec.js">
+    <testCase name="Pages Index should render without throwing an error" duration="11"/>
   </file>
 </testExecutions>
